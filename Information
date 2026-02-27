@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Portfolio - Information</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Information</h1>
+</header>
+
+<nav>
+    <a href="index.html">Accueil</a>
+    <a href="epreuve.html">Épreuve</a>
+    <a href="information.html">Information</a>
+    <a href="veille.html">Veille</a>
+    <a href="projet.html">Projet</a>
+</nav>
+
+<section>
+    <div class="card">
+        <h2>Informations personnelles</h2>
+        <p>Nom, formation, compétences, CV, contact...</p>
+    </div>
+</section>
+
+<footer>
+    © 2026 - Mon Portfolio
+</footer>
+
+</body>
+</html>
