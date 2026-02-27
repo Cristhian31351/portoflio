@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Portfolio - Accueil</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Mon Portfolio</h1>
+    <p>Bienvenue sur mon site professionnel</p>
+</header>
+
+<nav>
+    <a href="index.html">Accueil</a>
+    <a href="epreuve.html">Épreuve</a>
+    <a href="information.html">Information</a>
+    <a href="veille.html">Veille</a>
+    <a href="projet.html">Projet</a>
+</nav>
+
+<section>
+    <div class="card">
+        <h2>À propos de moi</h2>
+        <p>Je suis étudiant(e) en informatique passionné(e) par le développement web et les nouvelles technologies.</p>
+    </div>
+</section>
+
+<footer>
+    © 2026 - Mon Portfolio
+</footer>
+
+</body>
+</html>
