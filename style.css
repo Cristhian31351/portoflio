@@ -60,4 +60,7 @@ ul {
   display: inline-block;
   text-align: left;
 }
-
+p {
+  text-align: justify;
+    text-justify: auto;
+}
