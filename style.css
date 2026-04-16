@@ -2,6 +2,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
+    text-justify: auto;
 }
 
 header {
@@ -57,17 +58,4 @@ ul {
   display: inline-block;
   text-align: left;
 }
-{
-text-justify: none;
-text-justify: auto;
-text-justify: inter-word;
-text-justify: inter-character;
-text-justify: distribute; /* Valeur obsolète */
 
-/* Valeurs globales */
-text-justify: inherit;
-text-justify: initial;
-text-justify: revert;
-text-justify: revert-layer;
-text-justify: unset;
-}
