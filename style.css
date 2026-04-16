@@ -60,7 +60,7 @@ ul {
   display: inline-block;
   text-align: left;
 }
-p {
+.justifie {
   text-align: justify;
     text-justify: auto;
 }
